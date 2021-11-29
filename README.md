@@ -16,7 +16,10 @@ This app is to improve time management,set reminder and never be late for a even
 Mobile application
 ## Design (wireframes)
 Android studio
-## Version History
+## Version History\Changes
 * Initial Release
+* 1.0- Add additional timer
+* 1.1- Update screen orientation 
+* 1.2- change color scheme
 ## Author 
 Evrett J Henry
