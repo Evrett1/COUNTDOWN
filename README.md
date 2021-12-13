@@ -12,8 +12,9 @@ This app is to improve time management,set reminder and never be late for a even
 * Simple Event tracker
 * Basic design
 * Multiply event tracker
+* easy to navigate application
 ## Functionality
-Mobile application
+Mobile application for Android
 ## Design (wireframes)
 Android studio
 ## Version History\Changes
@@ -21,5 +22,8 @@ Android studio
 * 1.0- Add additional timer
 * 1.1- Update screen orientation 
 * 1.2- change color scheme
+* 2.0- multiple countdown display added
+* 2.1- task manager and reminder added
+* 3.0- fixed bug issues
 ## Author 
 Evrett J Henry
