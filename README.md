@@ -1,6 +1,9 @@
 # COUNTDOWN APP
 ## Description
 This app is to improve time management,set reminder and never be late for a event of deadline.
+if you have a hard time remembering your appointment this is the app for you.
+never miss any important events again.keep your countdown apps 
+easy to navigate, user friendly.
 #
 ## Problem addressing
 * Solves issue of being late and not completing assignemt on time.
